@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloPi", "HelloPi\HelloPi.vbproj", "{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|ARM.Build.0 = Debug|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x64.ActiveCfg = Debug|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x64.Build.0 = Debug|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x64.Deploy.0 = Debug|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x86.ActiveCfg = Debug|x86
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x86.Build.0 = Debug|x86
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Debug|x86.Deploy.0 = Debug|x86
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|ARM.ActiveCfg = Release|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|ARM.Build.0 = Release|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|ARM.Deploy.0 = Release|ARM
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x64.ActiveCfg = Release|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x64.Build.0 = Release|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x64.Deploy.0 = Release|x64
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x86.ActiveCfg = Release|x86
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x86.Build.0 = Release|x86
+		{BC6A5D48-473D-4D8F-A0EE-DD948741BE9F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {060033EB-0E55-434D-BE7E-E28AD6BB218F}
+	EndGlobalSection
+EndGlobal
